@@ -1,2 +1,2 @@
 # hello-world
-This is the firsdt commit
+This is the first commit
